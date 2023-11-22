@@ -5,8 +5,13 @@
 }
 
 body{
+    height: 100vh;
     background-image: url(/img/earth-1756274_1280.jpg);
-    background-color: #202020;
+    background-color: #606060;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: multiply;
     margin: 0;
     padding: 0;
 }
